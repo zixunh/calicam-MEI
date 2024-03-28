@@ -1,0 +1,6 @@
+[submodule "calicam_mono"]
+	path = calicam_mono
+	url = git@github.com:astar-ai/calicam_mono.git
+[submodule "calicam"]
+	path = calicam
+	url = git@github.com:astar-ai/calicam.git
